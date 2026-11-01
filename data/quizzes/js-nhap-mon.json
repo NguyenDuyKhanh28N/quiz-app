@@ -1,0 +1,18 @@
+{
+  "title": "JavaScript nhập môn",
+  "description": "Các câu hỏi cơ bản về JS",
+  "questions": [
+    {
+      "q": "Kiểu dữ liệu nào sau đây KHÔNG có trong JS?",
+      "options": ["number", "string", "float", "boolean"],
+      "answer": 2,
+      "explain": "JS chỉ có number (số thực và nguyên gộp chung), không có float riêng."
+    },
+    {
+      "q": "Kết quả của typeof null là gì?",
+      "options": ["'null'", "'object'", "'undefined'", "'boolean'"],
+      "answer": 1,
+      "explain": "Đây là bug kinh điển của JS, typeof null trả về 'object'."
+    }
+  ]
+}

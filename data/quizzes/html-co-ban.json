@@ -1,0 +1,23 @@
+{
+  "title": "HTML cơ bản",
+  "description": "Ôn tập các khái niệm nền tảng",
+  "questions": [
+    {
+      "q": "HTML là viết tắt của gì?",
+      "options": [
+        "HyperText Markup Language",
+        "HighText Machine Language",
+        "HyperTool Multi Language",
+        "Home Tool Markup Language"
+      ],
+      "answer": 0,
+      "explain": "HTML = HyperText Markup Language, ngôn ngữ đánh dấu siêu văn bản."
+    },
+    {
+      "q": "Thẻ nào dùng để tạo liên kết?",
+      "options": ["<link>", "<a>", "<href>", "<url>"],
+      "answer": 1,
+      "explain": "Thẻ <a> (anchor) tạo hyperlink, thuộc tính href chứa đích đến."
+    }
+  ]
+}
